@@ -1,0 +1,2 @@
+first install all dependencies with 
+npm i and then run npm run dev and please run it on http://localhost:3001/ only 
