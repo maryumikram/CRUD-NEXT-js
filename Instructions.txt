@@ -1,2 +1,7 @@
+this code i get from the youTube channel
+"GTCoding"
+
+and link of the video is "https://www.youtube.com/watch?v=wNWyMsrpbz0&t=819s"
+
 first install all dependencies with 
 npm i and then run npm run dev and please run it on http://localhost:3001/ only 
